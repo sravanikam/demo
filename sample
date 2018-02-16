@@ -3,3 +3,9 @@ append
 add
 subtract
 multiply
+modifying in the server side 
+def
+sample(a,b)
+return a
+add(a,b)
+ return a+b)
